@@ -45,15 +45,6 @@ You can have this application up and running with just a few steps because it ha
 5. The frontend of the application will be automatically opened in your web browser and you can test it away.
 
 
-### Things to note
-
-* The frontend is created using [create-react-app](https://github.com/facebook/create-react-app)
-* Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/)
-* Code quality is ensured using (ESLint)[https://eslint.org/]
-
-### Disclaimer
-
-This repository contains beginner level code and might contain some things I wish to change or remove. I have not maintained this for quite some time, but now I am trying to slowly fix these issues. You are welcome to open issues if you find any and I will accept PR's as well.
 <br/><br/>
 
-Cheers 💻 🍺 🔥 🙌
+
